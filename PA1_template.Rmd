@@ -1,3 +1,8 @@
+---
+output:
+  html_document:
+    keep_md: yes
+---
 #Peer Assessment 1 for Reproducible Research#
 
 The following report details the steps and and the answers to Peer Assignment 1 for Reproducible Research
